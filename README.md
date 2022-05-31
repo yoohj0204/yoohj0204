@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello👋
 
 <!--
 **yoohj0204/yoohj0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiy-wish&label=Profile%20views&color=0e75b6&style=flat" alt="S-Philp" /> </p>
 
-- 🎓 Graduated with BS in Computer Science (Minor in Statistics) from the University of Maryland, College Park
+- 🎓 Graduated with BS in Computer Science (Minor in Statistics) from the McGill University, Canada
 
-- 🔬 Currently pursuing my MS in [Quantitative Biomedical Science](https://geiselmed.dartmouth.edu/qbs/) from Dartmouth College
+- 🔬 Currently pursuing my MS in [Data Science](https://geiselmed.dartmouth.edu/qbs/) from Dartmouth College
 
 - 👨‍💻 Tech Stack : 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
